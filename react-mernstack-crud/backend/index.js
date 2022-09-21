@@ -1,4 +1,4 @@
-let expres = require("express");
+let express = require("express");
 let mongoose = require("mongoose");
 let cors = require("cors");
 let bodyParser = require("body-parser");
@@ -6,7 +6,7 @@ let bodyParser = require("body-parser");
 const studentRoute = require("../backend/routes/student.route");
 //Connecting mongoDB Database
 mongoose
-  .connect("mongodb://127.0.0.1:27017/mydatabase")
+  .connect("mongodb://localhost:27017/my-db")
   .then((x) => {
     console.log(
       `Connected to Mongo! Database name: "${x.connections[0].name}" `
