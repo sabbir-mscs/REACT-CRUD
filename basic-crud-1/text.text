@@ -1,0 +1,41 @@
+=========Image Slider=========
+Check that slide images are as per the customer’s requirement or not
+Check that all slide images should appear correctly or not
+Check that design of the slide bar
+Check the layout of the slide bar.
+Check that number of images used in the slide bar
+Check that alignment of images in the slide bar
+Check that length of the images in the slide bar
+Check that height of the images in the slide bar
+Check the slider with mouse drag
+Check that the user is able to click the “>” button from the slide bar or not
+Check that the user is able to click the “<” button from the slide bar or not
+Check that if the user clicks on the “>” icon button then the next image slide should be displayed.
+Check that if the user clicks on the “<” icon button then the previous image slide should be displayed.
+Check that the first slide image when lands on the website for the very first time
+Check that if the user clicks on the “>” button until the first slide image comes
+Check that if the user clicks on the “<” button until the first slide image comes
+Check that slides rotate automatically or not
+Check that if the automatic slide rotates then, a delay in the time of each slide
+Check that dots under the slide bar
+Check that if the user clicks on dot then the user should be navigated to the relevant slide image
+
+======== Page Tab Test cases=======
+Verify if the tabs are clickable.
+Verify if the tabs are not locked or stuck on any single tab option.
+Verify if the content inside the tab is visible.
+Verify if the content in a specific tab shows under the expected tab.
+Verify if the tab colors are as per specification.
+Verify if the tabs are correctly loaded when the webpage is loaded.
+Verify if the slow download doesn’t break the tab content and renders the tab open.
+Check if the tabs hide the information unless clicked otherwise.
+Check if the tabs don’t have animated effects for onclick action.
+Check if the tabs open on mouseover or not.
+Check if the tabs require the household on the tab to view the content.
+Check if the tabs are sortable for easy data viewing.
+Check if the tab data is served through AJAX.
+Check if the vertical tab feature is available.
+Check if the horizontal tab feature is enabled by default.
+Check if clicking one tab hides the content of another.
+
+========SIGN-IN=======
