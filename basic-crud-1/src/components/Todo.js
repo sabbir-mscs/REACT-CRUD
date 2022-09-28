@@ -4,7 +4,7 @@ const Todo = ({ text, todo, todos, setTodos }) => {
   //Events
   const deleteHandler = () => {
     setTodos(todos.filter((el) => el.id !== todo.id));
-    console.log(todo);
+    // console.log(todo);
   };
   const completeHandler = () => {
     setTodos(
